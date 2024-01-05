@@ -14,3 +14,6 @@ You can download the latest installer from the [releases tab of this repo](https
 If you prefer to build from source, you can open the .KLC source file in Microsoft Keyboard Layout Creator.
 You can use [this great guide](https://msklc-guide.github.io/) on how to work in this program.
 After opening the file, choose Project > Build DLL and Setup Package in the menu to create an installer.
+
+## Alternative approach
+If for some reason, it doesn't work for you, there is another way of achieving this via AutoHotKey. [I described it here](https://gist.github.com/astappiev/4046a16f66af4416a3795e73f5e32a2e).
